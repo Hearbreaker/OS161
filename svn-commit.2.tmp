@@ -1,0 +1,14 @@
+
+--This line, and those below, will be ignored--
+
+M    testbin/huge/huge.c
+M    testbin/Makefile
+M    testbin/sty/sty.c
+M    kern/userprog/runprogram.c
+M    kern/thread/synch.c
+M    kern/thread/thread.c
+M    kern/arch/mips/mips/syscall.c
+A    kern/vm/vm.c
+M    kern/include/syscall.h
+M    kern/main/menu.c
+M    kern/conf/conf.kern
